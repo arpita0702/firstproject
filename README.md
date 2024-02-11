@@ -1,4 +1,6 @@
 # firstproject
+
 This is my first Git Repository.
-<br>
-Author - Arpita Mishra
+
+Author - Arpita Mishra (HC)
+
